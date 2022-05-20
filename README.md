@@ -5,7 +5,8 @@
 
 <p align="center"> 🌱 I'm developing react now **REACT** </p>
 <p align="center"> 🌱 old c# developer **C#** </p>
+<p align="center"> <img  src="https://media.giphy.com/media/uWMwQYgYVHVGU/giphy.gif"> </p>
 
 
-![https://giphy.com/gifs/jim-carrey-gif-truman-show-uWMwQYgYVHVGU](https://media.giphy.com/media/uWMwQYgYVHVGU/giphy.gif)
+
 
